@@ -1,6 +1,7 @@
 ---
 title: お問い合わせ
 type: docs
+bookToc: false
 ---
 
 # お問い合わせ
