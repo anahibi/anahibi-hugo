@@ -12,4 +12,6 @@ Misskeyサーバー向けの絵文字パックです。アナヒビソーシャ�
 ライセンスは自我格納箱を除き、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)です。  
 ライセンス記載の際は、「CC BY 4.0 アナヒビソーシャル」または「CC BY 4.0 nakkaa」でお願いいたします。  
 
+meta.jsonを同梱しているため、Misskeyならばzipをアップロードするだけで絵文字をインポートできます。
+
 [絵文字パック(2024/07/18版)](/assets/anahibi-assets-v1.zip)
