@@ -9,3 +9,7 @@ headless: true
 <br />
 
 - [障害・メンテナンス情報](https://status.7ka.org/)
+
+<br />
+
+- [アセット集]({{< relref "/assets" >}})
