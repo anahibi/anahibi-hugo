@@ -5,6 +5,9 @@ type: docs
 
 # SharkeyとMisskeyの違い
 
+Sharkeyは[TransFem.org](https://activitypub.software/TransFem-org/Sharkey)が開発しているMisskeyの派生ソフトウェアの一つです。  
+Misskey最新版に追従しつつ独自の機能を盛り込んでいます。  
+
 SharkeyとMisskeyの大まかな違いを紹介します。  
 詳細は[Sharkey vs Misskey - Sharkey Documentation](https://docs.joinsharkey.org/docs/comparison/misskey/)をご確認ください。
 
