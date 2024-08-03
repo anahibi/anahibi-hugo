@@ -59,6 +59,7 @@ Sharkeyでは画像添付する際に代替テキストを設定する旨のダ�
 支援窓口は休止中です。  
 毎月の収支報告は[Ofuse](https://ofuse.me/anahibi?tab=events)をご確認ください。
 
-### Webアドレスのcalckeyってなに(ちらのーとの歴史)
+### Webアドレスのcalckeyの意味
 
-以前はCalckey(かるきー)と呼ばれるMisskey v12派生のソフトウェアを利用していたためです。  
+以前はCalckey(かるきー)と呼ばれるMisskey v12派生のソフトウェアを利用していた名残です。
+詳しくは[ちらのーとの歴史]({{< relref "/tiranote/history" >}})
