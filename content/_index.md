@@ -24,7 +24,8 @@ bookToc: false
 
 ## [ちらのーと](http://calckey.7ka.org/)
 
-GTLとLTLが存在せず、リレーサーバーに不参加な汎用[Sharkey]({{< relref "/sharkey" >}})サーバーです。  
+GTLとLTLが存在せず、リレーサーバーに不参加な汎用Sharkeyサーバーです。  
+[もっと詳しく]({{< relref "/tiranote" >}})  
 
 {{< /columns >}}
 
