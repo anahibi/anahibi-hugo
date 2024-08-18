@@ -12,7 +12,8 @@ bookToc: false
 {{< columns >}}
 ## [かんなすきー](https://misskey.7ka.org/)
 
-2022年6月に生まれた長期的な運用を重視している汎用Misskeyサーバーです。
+2022年6月に生まれた長期的な運用を重視している汎用Misskeyサーバーです。  
+[もっと詳しく]({{< relref "/kannnasuki" >}})  
 
 <--->
 
