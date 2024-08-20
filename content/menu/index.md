@@ -2,15 +2,10 @@
 headless: true
 ---
 
-- [利用規約]({{< relref "/rule" >}})
+- [トップページ]({{< relref "/" >}})
+- [利用規約(かんなすきー/ちらのーと)]({{< relref "/rule" >}})
 - [利用規約(さけすきー)]({{< relref "/rule/tos-sake" >}})
 - [プライバシーポリシー]({{< relref "/privacy" >}})
-- [お問い合わせ]({{< relref "/contact" >}})
-
-<br />
-
-- [障害・メンテナンス情報](https://status.7ka.org/)
-
-<br />
-
+- [ご支援について]({{< relref "/donation" >}})
 - [アセット集]({{< relref "/assets" >}})
+- [お問い合わせ]({{< relref "/contact" >}})
