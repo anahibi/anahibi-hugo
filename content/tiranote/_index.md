@@ -56,8 +56,7 @@ Sharkeyでは画像添付する際に代替テキストを設定する旨のダ�
 
 ### 支援窓口と収支報告について
 
-支援窓口は休止中です。  
-毎月の収支報告は[Ofuse](https://ofuse.me/anahibi?tab=events)をご確認ください。
+[ご支援について]({{< relref "/donation" >}})をご確認ください。
 
 ### Webアドレスのcalckeyの意味
 
