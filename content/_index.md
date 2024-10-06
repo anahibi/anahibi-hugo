@@ -17,12 +17,6 @@ bookToc: false
 
 <--->
 
-## [さけすきー](https://sk.204.jp/)
-
-お酒や食事の話題が多めなジャンル特化Misskeyサーバーです。
-
-<--->
-
 ## [ちらのーと](http://calckey.7ka.org/)
 
 GTLとLTLが存在せず、リレーサーバーに不参加な汎用Sharkeyサーバーです。  
