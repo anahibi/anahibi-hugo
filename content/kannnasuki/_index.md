@@ -39,4 +39,4 @@ bookToc: true
 (バックアップもOCI上に取っていたため復旧はできませんでした。)
 
 2022年6月に友人の自宅サーバー基盤を用いて、2代目としてサービスを再開しました。  
-その後、り[紆余曲折あり](https://www.docswell.com/s/fono/ZP93P7-2023-12-16-fedilug#p15)、VPSへ引っ越し現在に至ります。
+その後、[紆余曲折あり](https://www.docswell.com/s/fono/ZP93P7-2023-12-16-fedilug#p15)、VPSへ引っ越し現在に至ります。
