@@ -19,7 +19,7 @@ bookToc: false
 
 ## [ちらのーと](http://calckey.7ka.org/)
 
-GTLとLTLが存在せず、リレーサーバーに不参加な汎用Sharkeyサーバーです。  
+2023年5月に生まれたLTLが存在しない汎用Sharkeyサーバーです。  
 [もっと詳しく]({{< relref "/tiranote" >}})  
 
 {{< /columns >}}
@@ -28,8 +28,7 @@ GTLとLTLが存在せず、リレーサーバーに不参加な汎用Sharkeyサ�
 
 ## 利用規約
 
-- [かんなすきー・ちらのーと利用規約](/rule)
-- [さけすきー利用規約]({{< relref "/rule/tos-sake" >}})
+- [利用規約](/rule)
 - [プライバシーポリシー](/privacy)
 
 ## 各種申請
@@ -44,7 +43,6 @@ GTLとLTLが存在せず、リレーサーバーに不参加な汎用Sharkeyサ�
 メンテナンス情報や各種お知らせを発信します。
 
 - かんなすきー: https://misskey.7ka.org/@admin
-- さけすきー: https://sk.204.jp/@admin
 - ちらのーと: https://calckey.7ka.org/@admin
 
 上記のサーバーで障害が発生した際はManiakeyのアカウントでお知らせします。
