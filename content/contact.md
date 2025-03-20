@@ -6,5 +6,5 @@ bookToc: false
 
 # お問い合わせ
 
-緊急時や個人情報を取り扱う場合はこちらへお願いします。
-メール: `tnakkaa[at]gmail.com` ([at]を@に読み替えてください)
+緊急時や個人情報を取り扱う場合はこちらへお願いします。  
+- [お問い合わせフォーム](https://forms.gle/2Tr4XTPSWsGGttUu7)
