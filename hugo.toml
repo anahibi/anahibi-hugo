@@ -60,16 +60,16 @@ enableGitInfo = true
 
   # (Optional, default favicon.png) Set the path to a favicon file.
   # If the favicon is /static/favicon.png then the path would be favicon.png
-  # BookFavicon = 'favicon.png'
+  BookFavicon = 'anahibi.png'
 
   # (Optional, default none) Set the path to a logo for the book.
   # If the logo is /static/logo.png then the path would be logo.png
-  BookLogo = 'anahibi.png'
+  # BookLogo = 'anahibi.png'
 
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection = 'doc'
+  # BookSection = 'doc'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
