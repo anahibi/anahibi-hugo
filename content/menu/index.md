@@ -10,5 +10,5 @@ headless: true
 
 ---
 - [サーバー障害情報](https://status.7ka.org)
-- [アナヒビ商店(Booth)](https://nakkaa.booth.pm)
+- [お知らせアカウント](https://ml.7ka.org/@anahibi)
 - [収支報告(Ofuse)](https://ofuse.me/anahibi?tab=events)
