@@ -51,8 +51,8 @@ bookToc: false
 ## その他リンク集
 
 - [アナヒビソーシャル status](https://status.7ka.org/) ... 過去30日のサーバー稼働状況を確認できます。
-- [アナヒビ商店 - BOOTH](https://nakkaa.booth.pm/) ... 物販サイトです。売上はサーバー代に充当します。
-- [OFUSE (オフセ)](https://ofuse.me/anahibi?tab=events) ... 収支報告兼運用ブログです。管理人の自我を確認できます。
+- [OFUSE (オフセ)](https://ofuse.me/anahibi?tab=events) ... サーバーの運用ブログです。
+- [アナヒビ商店 - BOOTH](https://nakkaa.booth.pm/) ... グッズなどを販売しています。
 
 ## 連絡先
 
