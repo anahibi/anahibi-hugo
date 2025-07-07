@@ -1,15 +1,16 @@
 ---
-title: サーバーの比較
+title: サーバー一覧表
 type: docs
 bookToc: false
 ---
 
-# 比較表
+# サーバーの一覧表
 
 (2025年7月7日時点)
 
-|  | [かんなすきー](https://misskey.7ka.org) | [ちらのーと](https://calckey.7ka.org) | [ちらのーと2](https://chiranote.com) |
+|  | かんなすきー | ちらのーと | ちらのーと2 |
 | --- | --- | --- | --- |
+| URL| https://misskey.7ka.org | https://calckey.7ka.org | https://chiranote.com |
 | サービス開始日 | 2022-06-03 | 2023-05-17 | 2025-07-03 |
 | ソフトウェア | Misskey | Sharkey | Misskey |
 | ジャンル | 汎用 | 汎用 | 汎用 |
@@ -29,6 +30,7 @@ bookToc: false
 | クリップ最大ノート数 | 500 | 200 | 100 |
 | リスト | 10 | 10 | 5 |
 | リスト内のユーザー数 | 300 | 100 | 100 |
+| 備考 | | | |
 
 - 一定条件を満たすまで、ドライブ容量や一部の機能を制限することがあります。
 - BlueSkyのブリッジやThreadsとの連合は制限はしていませんが、動作保証はありません。

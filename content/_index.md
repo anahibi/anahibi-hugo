@@ -7,21 +7,20 @@ bookToc: false
 # アナヒビソーシャルへようこそ
 
 アナヒビソーシャルは、「あなたの日々を記録する」をコンセプトとしたFediverseサーバー群です。  
-アラサーのシステムエンジニアが趣味で運営しています。  
+当サービスは、個人(アラサーのシステムエンジニア)が趣味で運営しており、無料無保証でご利用いただけます。  
 ドライブ容量や各種上限値などの詳細は[サーバーの比較](/server-list)をご確認ください。
 
 {{% columns %}}
 
-## [かんなすきー](https://misskey.7ka.org/)
+## かんなすきー
 
 2022年6月に生まれた長期的な運用を重視している汎用Misskeyサーバーです。  
 
 {{< button relref="/kannnasuki" >}}もっと詳しく{{< /button >}}
 
-
 <--->
 
-## [ちらのーと](http://calckey.7ka.org/)
+## ちらのーと
 
 2023年5月に生まれたLTLが存在しない汎用Sharkeyサーバーです。  
 
@@ -40,20 +39,23 @@ bookToc: false
 - [アイコンデコレーションの申請](/procedure/icon-deco)
 - [通報について](/procedure/report)
 
-## お知らせアカウント
+## サーバーにアクセスできない場合
 
-メンテナンス情報や各種お知らせを発信します。
+サーバーメンテナンスまたは障害情報の可能性があります。  
 
-{{< button href="https://ml.7ka.org/@anahibi" >}}アナヒビソーシャル{{< /button >}}
-{{< button href="https://misskey.7ka.org/@admin" >}}かんなすきー公式{{< /button >}}
-{{< button href="https://calckey.7ka.org/@admin" >}}ちらのーと公式{{< /button >}}
+- [アナヒビソーシャル status](https://status.7ka.org/)にてメンテナンス情報を記載しています。
+- [お知らせアカウント](https://ml.7ka.org/@anahibi)にて情報を発信している場合があります。
 
-## その他リンク集
+## ご支援について
 
-- [アナヒビソーシャル status](https://status.7ka.org/) ... 過去30日のサーバー稼働状況を確認できます。
-- [OFUSE (オフセ)](https://ofuse.me/anahibi?tab=events) ... サーバーの運用ブログです。
-- [アナヒビ商店 - BOOTH](https://nakkaa.booth.pm/) ... グッズなどを販売しています。
+ありがたいことにサーバー代について支援したい旨のお声をいただくことがあります。  
+現在は寄付などのご支援を受け付けていません。  
+
+ちなみに、月々のサーバー代は[運用ブログ(Ofuse)](https://ofuse.me/anahibi)にて公開しています。  
 
 ## 連絡先
 
-管理人へ連絡を取りたい場合は、[お問い合わせ](/contact)をご確認ください。
+- Misskey
+  - [@nakkaa@misskey.7ka.org](https://misskey.7ka.org/@nakkaa)
+- メール(緊急時または個人情報を含む場合)
+  - [お問合せフォーム](https://contact.7ka.org)へ
