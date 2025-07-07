@@ -28,25 +28,21 @@ enableGitInfo = true
   unsafe = true
 
 [menu]
+
+[[menu.after]]
+  name = "サービス一覧"
+  url = "/server-list"
+  weight = 100
+
 [[menu.after]]
   name = "利用規約"
   url = "/rule"
-  weight = 10
+  weight = 200
 
 [[menu.after]]
   name = "プライバシーポリシー"
   url = "/privacy"
-  weight = 20
-
-[[menu.after]]
-  name = "ご支援について"
-  url = "/donation"
-  weight = 30
-
-[[menu.after]]
-  name = "お問い合わせ"
-  url = "/contact"
-  weight = 40
+  weight = 300
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
