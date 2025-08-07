@@ -6,30 +6,28 @@ bookToc: false
 
 # アナヒビソーシャルへようこそ
 
-アナヒビソーシャルは、個人が趣味で運営しているSNSの総称です。  
+「あなたの日々を記録する」をコンセプトとした個人が運営しているSNSの総称です。  
 ActivityPubという仕組みで、MisskeyやMastodonなど他のソフトウェアともやり取りができます。  
 運営しているサービスは、[サービス一覧](/server-list)をご確認ください。
 
-## 利用規約
+{{% columns ratio="1:1" %}}
+- ## 利用規約
+  - [利用規約](/rule)
+  - [プライバシーポリシー](/privacy)
 
-- [利用規約](/rule)
-- [プライバシーポリシー](/privacy)
+- ## 各種申請
+  - [カスタム絵文字の申請](/procedure/emoji)
+  - [アイコンデコレーションの申請](/procedure/icon-deco)
+  - [通報について](/procedure/report)
 
-## 各種申請
+- ## その他
+  - [サーバーステータス](https://status.7ka.org/)
+  - [お知らせアカウント](https://ml.7ka.org/@anahibi)
+  - [運用ブログ](https://ofuse.me/anahibi)
 
-- [カスタム絵文字の申請](/procedure/emoji)
-- [アイコンデコレーションの申請](/procedure/icon-deco)
-- [通報について](/procedure/report)
+{{% /columns %}}
 
 ## よくある質問
-
-### サーバーにアクセスできない
-
-サーバーメンテナンスまたは障害の可能性があります。  
-以下の情報源をご確認ください。
-
-- [アナヒビソーシャル status](https://status.7ka.org/)にてメンテナンス情報を記載しています。
-- [お知らせアカウント](https://ml.7ka.org/@anahibi)にて情報を発信している場合があります。
 
 ### アナヒビソーシャルのアナビビって?
 
