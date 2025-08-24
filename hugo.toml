@@ -44,6 +44,11 @@ enableGitInfo = true
   url = "/privacy"
   weight = 300
 
+[[menu.after]]
+  name = "使い方"
+  url = "/guide"
+  weight = 300
+
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
