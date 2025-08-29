@@ -45,7 +45,7 @@ enableGitInfo = true
   weight = 300
 
 [[menu.after]]
-  name = "使い方"
+  name = "Misskey使い方ガイド"
   url = "/guide"
   weight = 300
 
