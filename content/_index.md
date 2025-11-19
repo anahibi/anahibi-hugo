@@ -21,9 +21,9 @@ bookToc: false
   - [通報について](/procedure/report)
 
 - ## その他
-  - [サーバーステータス](https://status.7ka.org/)
-  - [お知らせアカウント](https://ml.7ka.org/@anahibi)
-  - [運用ブログ](https://ofuse.me/anahibi)
+  - [障害情報(Mastodon)](https://ma.fono.jp/@anahibi)
+  - [サーバー稼働状況](https://status.7ka.org/)
+  - [運用ブログ](https://ofuse.me/nakkaa)
 
 {{% /columns %}}
 
